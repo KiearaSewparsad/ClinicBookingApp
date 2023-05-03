@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clinic App</string>
+    <string name="clinic">Clinic:</string>
+    <string name="book_appointment">BOOK APPOINTMENT</string>
+    <string name="view_appointments">View appointments</string>
+    <string-array name="clinic_names">
+        <item>Ritson Medical Clinic</item>
+        <item>Steve Medical Clinic</item>
+        <item>Somatology Clinic</item>
+        <item>Radiology Clinic</item>
+        <item>Dental Clinic</item>
+        <item>Outsource Clinic</item>
+    </string-array>
+</resources>
